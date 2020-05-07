@@ -2,14 +2,14 @@
 
 ## Requirements
 
-**Linux**
+### Linux
 Both Wget and Python are installed and ready for use.
 
-**Windows**
+### Windows
 1. [Wget for Windows](https://eternallybored.org/misc/wget/)
 2. [Python](https://www.python.org/downloads/)
 
-**Android**
+### Android
 1. Termux
 2. pkg install wget
 3. pkg install python
