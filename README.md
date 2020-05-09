@@ -52,7 +52,7 @@ It's best to serve files from the location of the downloaded content as to not s
 
 **Navigate to the downloaded content directory**  
 ```shell
-cd /directory/for/files/
+cd /directory/of/download/
 ```
 
 **Start server**  
